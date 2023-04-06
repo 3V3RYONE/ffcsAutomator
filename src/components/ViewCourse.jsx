@@ -5,7 +5,7 @@ import { useEffect } from "react";
 
 
 import {Link} from 'react-router-dom'
-import { getUsers,deleteUser } from "../service/api";
+import { getUsers,deleteUser,getUser } from "../service/api";
 
 
 const StyledTable = styled(Table)`
@@ -27,7 +27,7 @@ const TBody = styled(TableRow)`
     font-size : 20px;
 }
 `
-const  AllUser = ()=>{
+const  ViewCourse = ()=>{
    
     useEffect(()=>{
       getAllUsers();
@@ -37,12 +37,25 @@ const  AllUser = ()=>{
    const getAllUsers = async ()=>{
      let response = await getUsers();
      setUsers(response.data);
-     console.log(response);
+    //  console.log(response);
    }
 
    const deleteUserdetails = async (id)=>{
     await deleteUser(id);
     getAllUsers();
+   }
+   const [courses,setCourses] = useState([]);
+   console.log(courses);
+
+   const addCourses = async(id)=>{
+    const val = await getUser(id);
+    console.log(val.data[0])
+    setCourses((prev)=>{
+        prev.push(val.data[0]);
+        return(prev);
+    })
+    console.log(prev);
+    console.log("JAY")
    }
 
     return(
@@ -67,8 +80,9 @@ const  AllUser = ()=>{
                                 <TableCell>{user.email}</TableCell>
                                 <TableCell>{user.phone}</TableCell>
                                 <TableCell>
-                                    <Button variant="contained" style={{marginRight:10}} component={Link} to={`/edit/${user._id}`}>Edit</Button>
-                                    <Button variant="contained" color="secondary" onClick={()=>deleteUserdetails(user._id)}>Delete</Button>
+                                    {/* <Button variant="contained" style={{marginRight:10}} component={Link} to={`/edit/${user._id}`}>Edit</Button>
+                                    <Button variant="contained" color="secondary" onClick={()=>deleteUserdetails(user._id)}>Delete</Button> */}
+                                    <Button variant="contained" color="secondary" onClick={()=>addCourses(user._id)}>Register</Button>
                                 </TableCell>
                             </TBody>
                         ))
@@ -77,4 +91,4 @@ const  AllUser = ()=>{
         </StyledTable >
     )
 }
-export default AllUser;
+export default ViewCourse;
