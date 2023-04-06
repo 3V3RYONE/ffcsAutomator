@@ -1,0 +1,194 @@
+[
+  {
+    "_id": 6,
+    "name": "Soft Skills",
+    "username": "STS3201",
+    "email": "Sneha Priya",
+    "phone": "E1",
+    "__v": 0
+  },
+  {
+    "_id": 10,
+    "name": "Design and Analysis of Algorithms",
+    "username": "CSE2012",
+    "email": "Dr. Janaki Meena M",
+    "phone": "D1",
+    "__v": 0
+  },
+  {
+    "_id": 11,
+    "name": "Simulation and Modelling",
+    "username": "CSE3119",
+    "email": "Dr. Pradeep Kumar T S",
+    "phone": "C1",
+    "__v": 0
+  },
+  {
+    "_id": 12,
+    "name": "Robotic Process Automation",
+    "username": "CSE3016",
+    "email": "Dr. Nitya Darisini P S",
+    "phone": "E1",
+    "__v": 0
+  },
+  {
+    "_id": 13,
+    "name": "Speech and Language Processing",
+    "username": "CSE3562",
+    "email": "Dr. Anushiya Rachel Gladston",
+    "phone": "A1",
+    "__v": 0
+  },
+  {
+    "_id": 14,
+    "name": "Knowledge Representation and Reasoning",
+    "username": "CSE4014",
+    "email": "Dr. Rajarajeswari S",
+    "phone": "D1",
+    "__v": 0
+  },
+  {
+    "_id": 15,
+    "name": "Robot Vision",
+    "username": "CSE4082",
+    "email": "Dr. Malathi G",
+    "phone": "F2",
+    "__v": 0
+  },
+  {
+    "_id": 16,
+    "name": "Discrete Maths and Graph Theory",
+    "username": "MAT2005",
+    "email": "Dr. Kaylan",
+    "phone": "C1",
+    "__v": 0
+  },
+  {
+    "_id": 17,
+    "name": "Computer Networks",
+    "username": "CSE3008",
+    "email": "Dr. Karmel A",
+    "phone": "E1",
+    "__v": 0
+  },
+  {
+    "_id": 18,
+    "name": "Operating System",
+    "username": "CSE3003",
+    "email": "Dr. Shyamala L ",
+    "phone": "E2",
+    "__v": 0
+  },
+  {
+    "_id": 19,
+    "name": "Database Management Systems",
+    "username": "CSE2004",
+    "email": "Dr. Balasundaram A",
+    "phone": "D1",
+    "__v": 0
+  },
+  {
+    "_id": 20,
+    "name": "Compiler Design",
+    "username": "CSE4011",
+    "email": "Dr. P Sivakumar",
+    "phone": "G2",
+    "__v": 0
+  },
+  {
+    "_id": 21,
+    "name": "Soft Skills",
+    "username": "CSE3201",
+    "email": "Dr. Mahesh Ragala",
+    "phone": "E2",
+    "__v": 0
+  },
+  {
+	"_id": 22,
+	"name": "Design and Analysis of Algorithms",
+	"username": "CSE2012",
+	"email": "Dr. Jegannathan L",
+	"phone": "D2",
+	"__v": 0
+  },
+  {
+	"_id": 23,
+	"name": "Simulation and Modelling",
+	"username": "CSE3119",
+	"email": "Dr. Chirsty Jackson",
+	"phone": "C2",
+	"__v": 0
+  },
+  {
+	"_id": 24,
+	"name": "Robotic Process Automation",
+	"username": "CSE3016",
+	"email": "Dr. Sheik Abdullah",
+	"phone": "E2",
+	"__v": 0
+  },
+  {
+	"_id": 25,
+	"name": "Speech and Language Processing",
+	"username": "CSE3562",
+	"email": "Dr. Gayathri R",
+	"phone": "A2",
+	"__v": 0
+  },
+  {
+	"_id": 26,
+	"name": "Knowledge Representation and Reasoning",
+	"username": "CSE4014",
+	"email": "Dr. Uma Maheshwari",
+	"phone": "D2",
+	"__v": 0
+  },
+  {
+	"_id": 27,
+	"name": "Robot Vision",
+	"username": "CSE4082",
+	"email": "Dr. Malathi G",
+	"phone": "F1",
+	"__v": 0
+  },
+  {
+	"_id": 28,
+	"name": "Discrete Maths and Graph Theory",
+	"username": "MAT2005",
+	"email": "Dr. Dhanashekar S",
+	"phone": "C2",
+	"__v": 0
+  },
+  {
+	"_id": 29,
+	"name": "Computer Networks",
+	"username": "CSE3008",
+	"email": "Dr. Anita X",
+	"phone": "E2",
+	"__v": 0
+  },
+  {
+	"_id": 30,
+	"name": "Operating System",
+	"username": "CSE3003",
+	"email": "Dr. Bharathiraja S",
+	"phone": "E1",
+	"__v": 0
+  },
+  {
+	"_id": 31,
+	"name": "Database Management Systems",
+	"username": "CSE2004",
+	"email": "Dr. Manas Ranjan Prusty",
+	"phone": "D2",
+	"__v": 0
+  },
+  {
+	"_id": 32,
+	"name": "Compiler Design",
+	"username": "CSE4011",
+	"email": "Dr. Subbulakshmi T",
+	"phone": "G1",
+	"__v": 0
+  }
+]
