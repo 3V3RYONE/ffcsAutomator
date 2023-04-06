@@ -1,6 +1,6 @@
 [
   {
-    "_id": 6,
+    "_id": 1,
     "name": "Soft Skills",
     "username": "STS3201",
     "email": "Sneha Priya",
@@ -8,7 +8,7 @@
     "__v": 0
   },
   {
-    "_id": 10,
+    "_id": 2,
     "name": "Design and Analysis of Algorithms",
     "username": "CSE2012",
     "email": "Dr. Janaki Meena M",
@@ -16,7 +16,7 @@
     "__v": 0
   },
   {
-    "_id": 11,
+    "_id": 3,
     "name": "Simulation and Modelling",
     "username": "CSE3119",
     "email": "Dr. Pradeep Kumar T S",
@@ -24,7 +24,7 @@
     "__v": 0
   },
   {
-    "_id": 12,
+    "_id": 4,
     "name": "Robotic Process Automation",
     "username": "CSE3016",
     "email": "Dr. Nitya Darisini P S",
@@ -32,7 +32,7 @@
     "__v": 0
   },
   {
-    "_id": 13,
+    "_id": 5,
     "name": "Speech and Language Processing",
     "username": "CSE3562",
     "email": "Dr. Anushiya Rachel Gladston",
@@ -40,7 +40,7 @@
     "__v": 0
   },
   {
-    "_id": 14,
+    "_id": 6,
     "name": "Knowledge Representation and Reasoning",
     "username": "CSE4014",
     "email": "Dr. Rajarajeswari S",
@@ -48,7 +48,7 @@
     "__v": 0
   },
   {
-    "_id": 15,
+    "_id": 7,
     "name": "Robot Vision",
     "username": "CSE4082",
     "email": "Dr. Malathi G",
@@ -56,7 +56,7 @@
     "__v": 0
   },
   {
-    "_id": 16,
+    "_id": 8,
     "name": "Discrete Maths and Graph Theory",
     "username": "MAT2005",
     "email": "Dr. Kaylan",
@@ -64,7 +64,7 @@
     "__v": 0
   },
   {
-    "_id": 17,
+    "_id": 9,
     "name": "Computer Networks",
     "username": "CSE3008",
     "email": "Dr. Karmel A",
@@ -72,7 +72,7 @@
     "__v": 0
   },
   {
-    "_id": 18,
+    "_id": 10,
     "name": "Operating System",
     "username": "CSE3003",
     "email": "Dr. Shyamala L ",
@@ -80,7 +80,7 @@
     "__v": 0
   },
   {
-    "_id": 19,
+    "_id": 11,
     "name": "Database Management Systems",
     "username": "CSE2004",
     "email": "Dr. Balasundaram A",
@@ -88,7 +88,7 @@
     "__v": 0
   },
   {
-    "_id": 20,
+    "_id": 12,
     "name": "Compiler Design",
     "username": "CSE4011",
     "email": "Dr. P Sivakumar",
@@ -96,7 +96,7 @@
     "__v": 0
   },
   {
-    "_id": 21,
+    "_id": 13,
     "name": "Soft Skills",
     "username": "CSE3201",
     "email": "Dr. Mahesh Ragala",
@@ -104,7 +104,7 @@
     "__v": 0
   },
   {
-	"_id": 22,
+	"_id": 14,
 	"name": "Design and Analysis of Algorithms",
 	"username": "CSE2012",
 	"email": "Dr. Jegannathan L",
@@ -112,7 +112,7 @@
 	"__v": 0
   },
   {
-	"_id": 23,
+	"_id": 15,
 	"name": "Simulation and Modelling",
 	"username": "CSE3119",
 	"email": "Dr. Chirsty Jackson",
@@ -120,7 +120,7 @@
 	"__v": 0
   },
   {
-	"_id": 24,
+	"_id": 16,
 	"name": "Robotic Process Automation",
 	"username": "CSE3016",
 	"email": "Dr. Sheik Abdullah",
@@ -128,7 +128,7 @@
 	"__v": 0
   },
   {
-	"_id": 25,
+	"_id": 17,
 	"name": "Speech and Language Processing",
 	"username": "CSE3562",
 	"email": "Dr. Gayathri R",
@@ -136,7 +136,7 @@
 	"__v": 0
   },
   {
-	"_id": 26,
+	"_id": 18,
 	"name": "Knowledge Representation and Reasoning",
 	"username": "CSE4014",
 	"email": "Dr. Uma Maheshwari",
@@ -144,15 +144,15 @@
 	"__v": 0
   },
   {
-	"_id": 27,
+	"_id": 19,
 	"name": "Robot Vision",
 	"username": "CSE4082",
-	"email": "Dr. Malathi G",
+	"email": "Dr. K K Menon",
 	"phone": "F1",
 	"__v": 0
   },
   {
-	"_id": 28,
+	"_id": 20,
 	"name": "Discrete Maths and Graph Theory",
 	"username": "MAT2005",
 	"email": "Dr. Dhanashekar S",
@@ -160,7 +160,7 @@
 	"__v": 0
   },
   {
-	"_id": 29,
+	"_id": 21,
 	"name": "Computer Networks",
 	"username": "CSE3008",
 	"email": "Dr. Anita X",
@@ -168,7 +168,7 @@
 	"__v": 0
   },
   {
-	"_id": 30,
+	"_id": 22,
 	"name": "Operating System",
 	"username": "CSE3003",
 	"email": "Dr. Bharathiraja S",
@@ -176,7 +176,7 @@
 	"__v": 0
   },
   {
-	"_id": 31,
+	"_id": 23,
 	"name": "Database Management Systems",
 	"username": "CSE2004",
 	"email": "Dr. Manas Ranjan Prusty",
@@ -184,7 +184,7 @@
 	"__v": 0
   },
   {
-	"_id": 32,
+	"_id": 24,
 	"name": "Compiler Design",
 	"username": "CSE4011",
 	"email": "Dr. Subbulakshmi T",
